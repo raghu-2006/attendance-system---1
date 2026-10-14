@@ -1,0 +1,6 @@
+{
+  "name": "Jyothi Technologies batch 1 (Seniors) - Smart Attendance System",
+  "description": "Comprehensive centralized attendance management system for Jyothi Technologies batch 1 (Seniors) students and administrators.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

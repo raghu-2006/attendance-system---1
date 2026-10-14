@@ -1,0 +1,213 @@
+{
+  "timestamp": "2026-10-13T00:39:03.444Z",
+  "students": [
+    {
+      "id": "BHUMIKA BR",
+      "name": "BHUMIKA BR",
+      "password": "bhum@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS007",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.685Z"
+    },
+    {
+      "id": "DEEPIKA CH",
+      "name": "DEEPIKA CH",
+      "password": "deep@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS014",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.687Z"
+    },
+    {
+      "id": "DHANUSHREE R",
+      "name": "DHANUSHREE R",
+      "password": "dhan@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS013",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.687Z"
+    },
+    {
+      "id": "JAYASHREE N",
+      "name": "JAYASHREE N",
+      "password": "jaya@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS005",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.684Z"
+    },
+    {
+      "id": "LAKSHMI BHOOTALI",
+      "name": "LAKSHMI BHOOTALI",
+      "password": "laks@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS012",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.686Z"
+    },
+    {
+      "id": "NANDAN H",
+      "name": "NANDAN H",
+      "password": "nand@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS010",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.686Z"
+    },
+    {
+      "id": "PREETHI S",
+      "name": "PREETHI S",
+      "password": "pree@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS003",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.684Z"
+    },
+    {
+      "id": "PUNYA SHREE S",
+      "name": "PUNYA SHREE S",
+      "password": "puny@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS001",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.683Z"
+    },
+    {
+      "id": "RIKITHA CH",
+      "name": "RIKITHA CH",
+      "password": "riki@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS011",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.686Z"
+    },
+    {
+      "id": "SANJANA R",
+      "name": "SANJANA R",
+      "password": "sanj@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS009",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.686Z"
+    },
+    {
+      "id": "SHAINAJABI NADAF",
+      "name": "SHAINAJABI NADAF",
+      "password": "shai@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS008",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.685Z"
+    },
+    {
+      "id": "SHASHIDHARA N R",
+      "name": "SHASHIDHARA N R",
+      "password": "shas@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS015",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.687Z"
+    },
+    {
+      "id": "SURAKSHA R",
+      "name": "SURAKSHA R",
+      "password": "sura@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS006",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.685Z"
+    },
+    {
+      "id": "TANU SHREE K",
+      "name": "TANU SHREE K",
+      "password": "tanu@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS004",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.684Z"
+    },
+    {
+      "id": "VARSHA M",
+      "name": "VARSHA M",
+      "password": "vars@123",
+      "collegeName": "Jyothy Institute of Technology",
+      "branch": "Computer Science & Engineering",
+      "rollNo": "1JT22CS002",
+      "phone": "",
+      "email": "",
+      "quickLoginEnabled": true,
+      "createdAt": "2026-10-13T00:38:34.683Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": "admin",
+      "name": "Admin",
+      "password": "admin@123",
+      "role": "superadmin"
+    },
+    {
+      "id": "damodar",
+      "name": "Damodar",
+      "password": "damo@123",
+      "role": "admin"
+    },
+    {
+      "id": "karan kumar",
+      "name": "Karan Kumar",
+      "password": "karan@123",
+      "role": "admin"
+    },
+    {
+      "id": "karan",
+      "name": "Karan Kumar",
+      "password": "karan@123",
+      "role": "admin"
+    }
+  ],
+  "attendance": [],
+  "reports": []
+}
